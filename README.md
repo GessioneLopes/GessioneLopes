@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @GessioneLopes
-- 👀 I’m interested in Learning to program...
-- 🌱 I’m currently learning Java, Python, and C programming language ...
-- 💞️ I’m looking to collaborate on With codes ...
+- 👋 Olá, eu sou @GessioneLopes
+- 👀 Estou procurando colaborar com novos projetos para adquerir experiência.
+- 🌱 Sou um Desenvolvedor Full-Stack.
+- 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.
+- 💞️ Gosto de desenvolvimento Back End, preferencialmente MySQL.
+- 📫 Meu email: gessionelopes1@hotmail.com
 
 
 <!---
-GessioneLopes/GessioneLopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+GessioneLopes/GessioneLopes é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+Você pode clicar no link Visualizar para dar uma olhada nas suas alterações.
 --->
