@@ -1,8 +1,8 @@
 - 👋 Olá, eu sou Gessione Lopes
 - 👀 Estou procurando colaborar com novos projetos para adquerir experiência.
 - 🌱 Sou um Desenvolvedor de perfil Full-Stack.
-- 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.
-- 💞️ Gosto de desenvolvimento Back End, preferencialmente com banco de dados MySQL.
+- 🔭 Conclui a Graduação de Análise e Desenvolvimento de Sistemas.
+- 💞️ Gosto de desenvolvimento Back End,
 - 💞️ Desenvolvimento Web utilizando PHP, Html5, CSS, Bootstrap.
 - 📫 Meu email: gessionelopes1@hotmail.com
 - 📫 Meu email: gessione13@gmail.com
